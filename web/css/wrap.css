@@ -1,0 +1,18 @@
+/*中心样式*/
+.wrap {
+    /* 可无需设置高度，靠图片高度 或者 文字的上下padding撑开高度 */
+    border: 0px solid;
+    width: auto;
+    text-align: center;
+}
+.wrap span{
+    display: inline-block;
+    vertical-align: middle;
+    text-align: left;
+    padding: 0px 0; /* 撑开高度 */
+}
+.wrap img{
+    width: 450px;
+    height: 300px;
+    vertical-align: middle;
+}

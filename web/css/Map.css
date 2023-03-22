@@ -1,0 +1,11 @@
+/*地图布局*/
+.MapTab{
+    text-align: left;
+    padding-left: 20%;
+    width: 60%;
+}
+.Map{
+    height: 400px;
+    width: 60%;
+    margin-left: 20%;
+}
